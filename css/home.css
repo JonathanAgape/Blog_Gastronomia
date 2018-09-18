@@ -9,3 +9,12 @@ img{
 div.secondary.callout.text-center{
   min-height: 242px;
 }
+.imag1{
+	margin-bottom: 10px;
+	height: 150px;
+	border: 2px solid black;
+}
+.imag2{
+	width: 100%;
+
+}
